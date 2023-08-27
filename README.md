@@ -8,17 +8,8 @@
 Using the two in conjunction is one of the fastest ways to build a web app.
 
 ### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
-
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
-=======
 # MontyHallProblem
 Displays the interesting, counterintuitive aspect of Monty Hall Problem. A fun, thought-provoking puzzle in the world of probability and statistics that show how our intuition can lead us astray.
 
 Uses HTML/CSS, JS, Bootstrap, React.
-
+https://montyhallproblem.kflux7.repl.co
