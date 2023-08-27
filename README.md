@@ -21,4 +21,4 @@ Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Tem
 Displays the interesting, counterintuitive aspect of Monty Hall Problem. A fun, thought-provoking puzzle in the world of probability and statistics that show how our intuition can lead us astray.
 
 Uses HTML/CSS, JS, Bootstrap, React.
->>>>>>> 4e1955d55e04a28bca5eb162a05b1afdd79c4f7a
+
