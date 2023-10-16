@@ -1,18 +1,33 @@
+* {
+  padding:0;
+  margin: 0;
+}
 .container {
   text-align: center;
   vertical-align: center;
   font-weight: bold;
   font-size: 50px;
 }
-
+.about-container {
+  padding-top: 20px;
+}
 body::before {
   display:block;
   content:'';
   height: 60px;
 }
 
-@media(min-width: 768px) {
-  #news-input {
-    width: 50%;
-  }
+.about {
+  position: relative;
+  margin: 20px;
+}
+
+.navbar {
+  position: absolute;
+}
+
+@media (max-width: 576px) {  /* Bootstrap's breakpoint for small screens */
+    .darkContainer {
+        padding-bottom: 2rem;  /* or any desired value */
+    }
 }
