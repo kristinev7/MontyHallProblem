@@ -31,3 +31,7 @@ body::before {
         padding-bottom: 2rem;  /* or any desired value */
     }
 }
+
+ul {
+    list-style-type: none; /* Remove bullets or dots for the unordered list */
+  }
