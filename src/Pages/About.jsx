@@ -4,7 +4,8 @@ import '../App.css';
 export default function About() {
   return (
     <div className='about-container'>
-      <h1 className=" about text-center">Monty Hall Problem</h1>
+      <div className="center-content">
+      <h1 className="about text-center">Monty Hall Problem</h1>
         <h1>Let's Make A Deal</h1>
         <p>Yes! Monty Hall is a real person. He was the host of the television game show called "Let's Make a Deal". The Monty Hall Problem is probability puzzle and it goes like this:</p>
       <ul>
@@ -47,8 +48,7 @@ export default function About() {
       <ul>
         <li>Switching gives player 2/3 chance of winning the car, while staying with the original choice gives only 1/3 chance of winning the car.</li>
       </ul>
-      
-        
     </div>
+  </div>
   )
 }

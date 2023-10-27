@@ -23,7 +23,7 @@ body::before {
 }
 
 .navbar {
-  position: absolute;
+  position: fixed;
 }
 
 @media (max-width: 576px) {  /* Bootstrap's breakpoint for small screens */
@@ -35,3 +35,6 @@ body::before {
 ul {
     list-style-type: none; /* Remove bullets or dots for the unordered list */
   }
+
+
+
