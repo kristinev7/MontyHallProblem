@@ -3,4 +3,4 @@ Displays the interesting, counterintuitive aspect of Monty Hall Problem. A fun, 
 
 Uses HTML/CSS, JS, Bootstrap, React.
 
-Monty Hall Problem(https://a694abda-cf77-465d-bcbf-d6f62d4b352a-00-qbs3s472oy8m.kirk.replit.dev/)
+[Monty Hall Problem](https://a694abda-cf77-465d-bcbf-d6f62d4b352a-00-qbs3s472oy8m.kirk.replit.dev/)
